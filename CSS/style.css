@@ -1,0 +1,21 @@
+div{
+    margin: 10px;
+    padding: 50px;
+    text-align: center;
+}
+
+div a{
+    font-size: 25px;
+}
+
+.heading{
+    background-color: palevioletred;
+}
+
+#link-1{
+    background-color: aqua;
+}
+
+#link-2{
+    background-color: royalblue;
+}
